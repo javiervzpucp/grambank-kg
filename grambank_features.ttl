@@ -1,0 +1,56 @@
+@prefix glotto: <https://glottolog.org/resource/languoid/id/> .
+@prefix ling: <http://purl.org/linguistics#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+glotto:ayac1239 a ling:Language ;
+    rdfs:label "Ayacucho Quechua" ;
+    ling:glottocode "ayac1239" .
+
+glotto:cald1236 a ling:Language ;
+    rdfs:label "Calderón Highland Quichua" ;
+    ling:glottocode "cald1236" .
+
+glotto:cent2142 a ling:Language ;
+    rdfs:label "Central Aymara" ;
+    ling:glottocode "cent2142" .
+
+glotto:chim1302 a ling:Language ;
+    rdfs:label "Bolivar-North Chimborazo Highland Quichua" ;
+    ling:glottocode "chim1302" .
+
+glotto:cusc1236 a ling:Language ;
+    rdfs:label "Cusco Quechua" ;
+    ling:glottocode "cusc1236" .
+
+glotto:hual1241 a ling:Language ;
+    rdfs:label "Huallaga Huánuco Quechua" ;
+    ling:glottocode "hual1241" .
+
+glotto:imba1240 a ling:Language ;
+    rdfs:label "Imbabura Highland Quichua" ;
+    ling:glottocode "imba1240" .
+
+glotto:inga1252 a ling:Language ;
+    rdfs:label "Colombian Inga" ;
+    ling:glottocode "inga1252" .
+
+glotto:jaqa1244 a ling:Language ;
+    rdfs:label "Jaqaru" ;
+    ling:glottocode "jaqa1244" .
+
+glotto:mapu1245 a ling:Language ;
+    rdfs:label "Mapudungun" ;
+    ling:glottocode "mapu1245" .
+
+glotto:nort2980 a ling:Language ;
+    rdfs:label "North Junín Quechua" ;
+    ling:glottocode "nort2980" .
+
+glotto:sanm1289 a ling:Language ;
+    rdfs:label "San Martín Quechua" ;
+    ling:glottocode "sanm1289" .
+
+glotto:sout2996 a ling:Language ;
+    rdfs:label "Southern Aymara" ;
+    ling:glottocode "sout2996" .
+

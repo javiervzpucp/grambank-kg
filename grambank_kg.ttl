@@ -1,0 +1,62 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix glotto: <https://glottolog.org/resource/languoid/id/> .
+@prefix lexvo: <http://lexvo.org/id/iso639-3/> .
+@prefix ling: <http://purl.org/linguistics#> .
+@prefix ns1: <http://purl.org/linguistics#Plural+> .
+@prefix ns10: <http://purl.org/linguistics#Plural+Action+> .
+@prefix ns11: <http://purl.org/linguistics#Simple+> .
+@prefix ns12: <http://purl.org/linguistics#Plural+%> .
+@prefix ns2: <http://purl.org/linguistics#Series+> .
+@prefix ns3: <http://purl.org/linguistics#TAM+> .
+@prefix ns4: <http://purl.org/linguistics#Citation+> .
+@prefix ns5: <http://purl.org/linguistics#3SG+> .
+@prefix ns6: <http://purl.org/linguistics#English+> .
+@prefix ns7: <http://purl.org/linguistics#2SG+> .
+@prefix ns8: <http://purl.org/linguistics#Singular+> .
+@prefix ns9: <http://purl.org/linguistics#Present+> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://glottolog.org/resource/languoid/id/ayac1239/obs/GB020-ayac1239> a ling:FeatureObservation ;
+    ling:aboutFeature <http://purl.org/linguistics#feature/GB020> ;
+    ling:forLanguage glotto:ayac1239 ;
+    ling:hasValue 0 ;
+    prov:wasDerivedFrom <g_Soto-Ruiz_Ayacucho-Chanca;g_ZariquieyCordova_Chanca> .
+
+<https://glottolog.org/resource/languoid/id/ayac1239/obs/GB021-ayac1239> a ling:FeatureObservation ;
+    ling:aboutFeature <http://purl.org/linguistics#feature/GB021> ;
+    ling:forLanguage glotto:ayac1239 ;
+    ling:hasValue 0 ;
+    prov:wasDerivedFrom <g_Parker_Ayacuchano[32-46]> .
+
+<https://glottolog.org/resource/languoid/id/ayac1239/obs/GB022-ayac1239> a ling:FeatureObservation ;
+    ling:aboutFeature <http://purl.org/linguistics#feature/GB022> ;
+    ling:forLanguage glotto:ayac1239 ;
+    ling:hasValue 0 ;
+    prov:wasDerivedFrom <g_Soto-Ruiz_Ayacucho-Chanca;g_ZariquieyCordova_Chanca> .
+
+<https://glottolog.org/resource/languoid/id/ayac1239/obs/GB023-ayac1239> a ling:FeatureObservation ;
+    ling:aboutFeature <http://purl.org/linguistics#feature/GB023> ;
+    ling:forLanguage glotto:ayac1239 ;
+    ling:hasValue 0 ;
+    prov:wasDerivedFrom <g_Soto-Ruiz_Ayacucho-Chanca;g_ZariquieyCordova_Chanca> .
+
+<https://glottolog.org/resource/languoid/id/ayac1239/obs/GB024-ayac1239> a ling:FeatureObservation ;
+    ling:aboutFeature <http://purl.org/linguistics#feature/GB024> ;
+    ling:forLanguage glotto:ayac1239 ;
+    ling:hasValue 1 ;
+    prov:wasDerivedFrom <g_Parker_Ayacuchano[35]> .
+
+<https://glottolog.org/resource/languoid/id/ayac1239/obs/GB025-ayac1239> a ling:FeatureObservation ;
+    ling:aboutFeature <http://purl.org/linguistics#feature/GB025> ;
+    ling:forLanguage glotto:ayac1239 ;
+    ling:hasValue 1 ;
+    prov:wasDerivedFrom <g_Parker_Ayacuchano[36]> .
+
+<https://glottolog.org/resource/languoid/id/ayac1239/obs/GB026-ayac1239> a ling:FeatureObservation ;
+    ling:aboutFeature <http://purl.org/linguistics#feature/GB026> ;
+    ling:forLanguage glotto:ayac1239 ;
+    ling:hasValue 0 ;
+    prov:wasDerivedFrom 

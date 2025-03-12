@@ -1,0 +1,53 @@
+=== Reporte Lingüístico del Knowledge Graph ===
+
+[Estadísticas Fundamentales]
+- Triples totales: 477,245
+- Lenguas documentadas: 224
+- Familias lingüísticas: 41
+- Rasgos gramaticales: 195
+
+[Distribución Geográfica]
+- Lenguas con coordenadas: 224 (100.0%)
+- Regiones aproximadas: {'América': 224}
+
+[Topología del Grafo]
+- Relaciones únicas: 20
+- Relaciones más frecuentes:
+    - http://purl.org/dc/terms/hasPart: 441663
+    - hasFeatureAbsent: 19693
+    - hasFeaturePresent: 10527
+
+[Jerarquía Lingüística]
+- Familias con más miembros:
+    - Arawakan: 41 lenguas
+    - Pano-Tacanan: 19 lenguas
+    - Tupian: 18 lenguas
+    - Nuclear-Macro-Je: 13 lenguas
+    - Cariban: 12 lenguas
+
+[Rasgos más Significativos]
+
+- Is a pragmatically unmarked constituent order verb-final for transitive clauses? (GB133):
+  * Frecuencia total: 216
+  * Presentes: 130 (60.2%)
+  * Ausentes: 86 (39.8%)
+
+- Is a pragmatically unmarked constituent order verb-initial for transitive clauses? (GB131):
+  * Frecuencia total: 215
+  * Presentes: 49 (22.8%)
+  * Ausentes: 166 (77.2%)
+
+- Is there a gender/noun class system where shape is a factor in class assignment? (GB052):
+  * Frecuencia total: 211
+  * Presentes: 40 (19.0%)
+  * Ausentes: 171 (81.0%)
+
+- Can the S argument be indexed by a prefix/proclitic on the verb in the simple main clause? (GB090):
+  * Frecuencia total: 209
+  * Presentes: 125 (59.8%)
+  * Ausentes: 84 (40.2%)
+
+- Is there a distinction between inclusive and exclusive? (GB028):
+  * Frecuencia total: 209
+  * Presentes: 99 (47.4%)
+  * Ausentes: 110 (52.6%)
